@@ -4,6 +4,11 @@
 
 	$ vagrant up
 
+## Enter VM
+
+	$ vagrant ssh
+	$ cd /vagrant
+
 ## Getting started
 
 ### Show image
